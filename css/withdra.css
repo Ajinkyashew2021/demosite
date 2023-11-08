@@ -1,0 +1,111 @@
+.content-container{
+    background-image: url('../images/deposit_bg.jpg');
+  /* background-image: url('../images/animation_coin.gif'); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  font-family: Arial, sans-serif;
+  color: #171515; 
+  padding: 20px;
+  /* background-color: rgba(71, 29, 29, 0.7); */
+  background-color: rgba(5, 4, 4, 0.7);
+  /* border-radius: 10px;
+  max-width: 600px;
+  margin: 0 auto; */
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+ 
+}
+.with{
+    font-size: 60px;
+    font-family: serif;
+    color: white;
+}
+.head{
+    font-size: 40px;
+    margin-top: 90px; /* Add spacing between sections */
+    background-image: linear-gradient(45deg, #FFA500, #ae0909);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-family:fantasy;
+}
+.inst{
+    margin-top: 10px; /* Add spacing between the inline instructions */
+    display: flex;
+      flex-direction: row; /* Display elements side by side */
+      align-items: center; /* Vertically center the elements */
+      justify-content: center;
+      text-align: justify;
+      color: black;
+      font-size: 19px;
+
+}
+.inst p{
+    color: black;
+    font-size: 22px;
+    margin-top: 5%;
+   
+      line-height: 1.1;
+      
+      color: #1a2989;
+}
+.paragraph{
+    font-size: 20px;
+    color: black; /* Color for the step paragraphs */
+    margin-top: 10px; /* Add margin top as needed */
+    text-align: justify;
+}
+.inline{
+    font-weight: bold;
+    font-size: 176px;
+    background: linear-gradient(45deg, #FFA500, #A52A2A);
+    border-radius: 10px 150px;
+    padding-inline: 40px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+}
+.info{
+    font-size: 30px;
+    color: #191917; /* Color for the section header */
+    margin-top: 20px;
+
+}
+.info-par{
+    font-size: 20px;
+    color: #211d1d; /* Color for the section paragraph */
+    margin-top: 10px; /* Add margin top as needed */
+    text-align: justify; /* Justify text alignment */
+    margin-bottom: 117px;
+    padding-left: 7%;
+      padding-right: 7%;
+}
+.start-t{
+  background-image: url('../images/deposit_bg1.jpg'); /* Replace 'your-background-image.jpg' with the actual image file path */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  font-family: Arial, sans-serif;
+  font-size: 22px;
+  color: #1e1b1b;
+}
+.content-con{
+    font-size: 44px;
+    font-family: fantasy;
+    padding-top: 5%;
+}
+.instru{
+    padding-top: 80px;
+}
+.paragraph-o{
+    font-size: 20px;
+    color: black; /* Color for the step paragraphs */
+    margin-top: 10px; /* Add margin top as needed */
+    text-align: justify
+}

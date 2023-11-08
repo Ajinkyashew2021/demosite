@@ -1,0 +1,72 @@
+
+.newcard-btn {
+  padding: 10px;
+
+  background: linear-gradient(45deg, #ffa500, #a52a2a);
+  color: white;
+  margin-bottom: 5px;
+  border-radius: 8px;
+}
+.new-card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  display: flex;
+
+  flex-wrap: wrap;
+
+  gap: 1.1em;
+}
+.newcard-text {
+  color: white;
+}
+
+.new-cardcontainer1 {
+  padding: 2px 16px;
+  background-color: white;
+  width: 28%;
+  margin: auto;
+  border-radius: 8px;
+}
+.new-cardcontainer1 h3 {
+  color: white;
+  padding: 15px;
+  margin: 0;
+
+  background: linear-gradient(45deg, #ffa500, #a52a2a);
+}
+.new-cardcontainer2 {
+  padding: 2px 16px;
+  background-color: white;
+  width: 28%;
+  margin: auto;
+  border-radius: 8px;
+}
+.new-cardcontainer2 h3 {
+  color: white;
+  padding: 15px;
+  margin: 0;
+  background: linear-gradient(45deg, #ffa500, #a52a2a);
+}
+.new-cardcontainer3 {
+  padding: 2px 16px;
+  background-color: white;
+  width: 28%;
+  margin: auto;
+  border-radius: 8px;
+}
+.new-cardcontainer3 h3 {
+  color: white;
+  padding: 15px;
+  margin: 0;
+
+  background: linear-gradient(45deg, #ffa500, #a52a2a);
+}
+.newcardplan-list li {
+  padding: 13px;
+  font-size: 14px;
+  border-bottom: 1px solid #eee;
+  color: black;
+}
+
+.newcardplan-list li:first-child {
+  border-top: 1px solid #eee;
+}

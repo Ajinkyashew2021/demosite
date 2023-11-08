@@ -1,0 +1,75 @@
+/* Add this to your main CSS file */
+/* Sticky Navbar */
+.navbar-fixed-top {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgb(8 12 15); /* Set your desired background color */
+    z-index: 1000; /* Ensure it's on top of other elements */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
+   
+}
+
+/* Navbar Hover Effect */
+.navbar-default .navbar-nav > li > a:hover {
+    color: rgb(8 12 15); /* Set your desired hover color */
+}
+
+/* Add more styling for your components as needed */
+.navbar-default .navbar-nav .dropdown:hover > .dropdown-menu {
+    display: block;
+}
+
+
+/* New styles for box hover effect */
+.navbar-default .navbar-nav .dropdown-menu {
+    background-color: rgb(8 12 15); /* Set background color for dropdown */
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    /* transform: translateY(10px); Initial position slightly below */
+    transform: perspective(1000px) rotateX(90deg) scale(0.8);
+    opacity: 0; /* Initially hidden */
+    transition: transform 0.3s, opacity 0.3s;
+    transform-origin: top center; /* Set rotation origin */
+    min-width: 200px;
+}
+
+.navbar-default .navbar-nav .dropdown:hover > .dropdown-menu {
+    /* transform: translateY(0);  */
+    transform: perspective(1000px) rotateX(0) scale(1); 
+    opacity: 1; /* Show on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.navbar-transparent {
+     /* background-color: transparent;  */
+    transition: background-color 0.3s;
+}
+
+.navbar-transparent .navbar-nav > li > a {
+    color: #fff; /* Set text color for links */
+}
+
+.navbar-blue {
+    background-color: rgb(8 12 15); /* Set your desired background color */
+}
+/* Add this CSS rule to your navbar.css stylesheet */
+.dropdown-menu {
+    margin: 0;
+    padding: 0;
+}
+
+.dropdown-menu > li > a {
+    transition: background-color 0.3s;
+    height: 60px;
+}
+
+.dropdown:hover .dropdown-menu {
+    transform: translateY(0);
+    opacity: 1;
+    transition: transform 0.3s, opacity 0.3s, visibility 0s linear 0.3s;
+    perspective: 1000px;
+}
+
+

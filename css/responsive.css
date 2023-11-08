@@ -1,0 +1,2494 @@
+@media only screen and (max-width: 320px) {
+  .header .intro-text h1 {
+    font-size: 30px;
+    line-height: 40px;
+    margin-bottom: 25px;
+  }
+
+  .header .intro-text p {
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 25px;
+  }
+
+  .header .intro-text .btn-primary {
+    padding: 10px 15px;
+    font-size: 13px;
+  }
+
+  .call-to-action h1 {
+    font-size: 30px;
+    line-height: 40px;
+    padding-left: 20px;
+  }
+
+  .call-to-action .btn-primary {
+    padding: 15px;
+    font-size: 13px;
+  }
+
+  .about-text p {
+    margin-top: 20px;
+  }
+
+  .skill-shortcode {
+    margin-bottom: 30px;
+  }
+
+  .footer-link ul {
+    float: left !important;
+    margin-top: 30px;
+  }
+
+  .footer-social {
+    margin-top: 30px;
+  }
+
+  /* carousel */
+
+  .main-slide .slider-content p {
+    margin-top: 22px;
+    line-height: 1.3;
+  }
+  .main-slide .slider-content h1 {
+    font-size: 14px;
+    line-height: normal;
+    margin-bottom: 0;
+    margin-top: 68px;
+  }
+  .carousel-inner {
+    height: 278px;
+    padding-top: 52px;
+  }
+  .item {
+    height: 150%;
+  }
+  .page-scroll .btn .btn-primary .animated3 {
+    display: none;
+  }
+  .page-scroll .btn .btn-primary .animated1 {
+    display: none;
+  }
+
+  #main-slide .item img {
+    width: 100%;
+  }
+
+  #main-slide .carousel-control .fa-angle-left {
+    position: absolute;
+    top: 66%;
+    z-index: 5;
+    display: inline-block;
+  }
+  #main-slide {
+    height: 200px;
+  }
+
+  /* index simple img */
+  .imgg {
+    display: none;
+  }
+  .open-account-btn {
+    display: none;
+  }
+  .about-us-section-1 {
+    display: none;
+  }
+
+  /* //web trader responsive// */
+  .content1 h1 {
+    font-size: 39px;
+    font-family: system-ui;
+    text-align: center;
+  }
+  .content1 {
+    background-image: url("../images/animation_1.gif");
+    background-size: cover;
+    background-position: center;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .content1 h2 {
+    font-size: 22px;
+    font-family: system-ui;
+  }
+  h1 {
+    margin: 10px 0;
+    color: white;
+  }
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-family: "averta";
+    color: white;
+  }
+
+  /* terms */
+ /* terms */
+ .c p {
+  width: 100%;
+  font-size: 10px;
+  text-align: justify;
+  padding-left: 10px;
+  padding-right: 22px;
+}
+.terms_page li {
+  width: 100%;
+  text-align: justify;
+  font-size: 10px;
+}
+.terms_page h2 {
+  width: 100%;
+  text-align: center;
+  font-size: 10px;
+  padding-left: 2px;
+}
+.terms_page h1 {
+  padding-top: 10px;
+  font-size: 21px;
+}
+  /* footer */
+  .col-xs-12 {
+    width: 102%;
+  }
+
+  /* withdraw */
+
+  .content-container h1 {
+    font-size: 33px;
+  }
+  .content-container {
+    height: 544px;
+  }
+  .info-par {
+    font-size: 14px;
+    color: #211d1d;
+
+    text-align: justify;
+
+    padding-left: 7%;
+    padding-right: 7%;
+  }
+  .info {
+    font-size: 25px;
+  }
+  .head {
+    font-size: 28px;
+  }
+  .inst {
+    display: block;
+    font-size: 11px;
+    text-align: center;
+    padding: 44px 52px;
+  }
+  .inline {
+    font-weight: bold;
+    font-size: 101px;
+    background: linear-gradient(45deg, #ffa500, #a52a2a);
+    border-radius: 2px 162px;
+    padding-inline: 122px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+  }
+
+  /* account type */
+
+  .pricing-table {
+    width: 100%;
+  }
+  .new-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    display: block;
+
+    gap: 1.5em;
+  }
+
+  /* Add some padding inside the card container */
+  .new-cardcontainer1 {
+    padding: 2px 16px;
+    background-color: white;
+    width: auto;
+    margin-top: 10px;
+  }
+  .new-cardcontainer2 {
+    padding: 2px 16px;
+    background-color: white;
+    width: auto;
+    margin-top: 10px;
+  }
+  .new-cardcontainer3 {
+    padding: 2px 16px;
+    background-color: white;
+    width: auto;
+    margin-top: 10px;
+  }
+
+  /* navbar toggle show */
+
+  /* .container > .navbar-header {
+    margin-right: -95px;
+    margin-left: -15px;
+  } */
+
+  /* New styles for box hover effect */
+  .navbar-default .navbar-nav .dropdown-menu {
+    background-color: rgb(8 12 15); /* Set background color for dropdown */
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    /* transform: translateY(10px); Initial position slightly below */
+    transform: perspective(1000px) rotateX(90deg) scale(0.8);
+    opacity: 0; /* Initially hidden */
+    transition: transform 0.3s, opacity 0.3s;
+    transform-origin: top center; /* Set rotation origin */
+  }
+
+  .navbar-transparent {
+    /* background-color: transparent;  */
+    transition: background-color 0.3s;
+  }
+
+  .navbar-transparent .navbar-nav > li > a {
+    color: #fff;
+  }
+  .navbar-default .navbar-nav > li > a:hover {
+    color: rgb(8 12 15); /* Set your desired hover color */
+  }
+
+  .navbar-blue {
+    background-color: rgb(8 12 15); /* Set your desired background color */
+  }
+  /* Add this CSS rule to your navbar.css stylesheet */
+  .dropdown-menu {
+    margin: 0;
+    padding: 0;
+  }
+  /* .dropdown-menu > li > a {
+    transition: background-color 0.3s;
+    height: 60px;
+  
+  } */
+  .dropdown-menu > li > a {
+    transition: background-color 0.3s;
+  }
+
+  .navbar-default .nav li a:hover,
+  .navbar-default .nav li a:focus {
+    outline: 0;
+    color: black !important;
+  }
+  .navbar-default .navbar-nav > li > a:hover {
+    color: rgb(8 12 15); /* Set your desired hover color */
+  }
+  .dropdown:hover .dropdown-menu {
+    transform: translateY(0);
+
+    opacity: 1;
+    transition: transform 0.3s, opacity 0.3s, visibility 0s linear 0.3s;
+    perspective: 1000px;
+  }
+  /* index mobile */
+  .centered-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  .app-heading {
+    font-size: 45px;
+    margin-top: -2%;
+    color: black;
+  }
+  .section-title {
+    text-align: center;
+    padding-top: 0%;
+  }
+  /* Deposit */
+
+  .content-container-bg{
+    width: 319px;
+    padding-top: 5px;
+    height: 37vh;
+}
+
+.bg-content{
+    font-size: 45px;
+    margin-top: 156px;
+    padding-left: 20px;
+}
+
+
+.bg-para{
+    padding-bottom: 136px;
+    font-size: 22px;
+    
+}
+
+.new-paragraph {
+    font-size: 18px;
+}
+
+.instructions {
+    margin-top: 10px;
+    color: black;
+    font-size: 14px;
+    display: block;
+    }
+
+
+    .inline-letter {
+        font-weight: bold;
+        font-size: 134px;
+        background-image: linear-gradient(45deg, #FFA500, #710a0a);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        padding-inline: 40px;
+        margin-left: 81px;
+    }
+
+    .instructions p {
+        color: black;
+        padding-bottom: 11px;
+        margin-right: 22px;
+        text-align: center;
+        font-size: 15px;
+    }
+
+
+    .info-paragraph {
+        font-size: 15px;
+    }
+
+
+    .bg-content-bg {
+        font-size: 34px;
+        color: #211d1d;
+
+    }
+
+    .inline-letter-one {
+        font-weight: bold;
+        font-size: 131px;
+        border-radius: 10px 120px;
+    }
+
+
+    /* p {
+        font-size: 16px;
+        line-height: 28px;
+        padding-top: 24px;
+        padding-bottom: 23px;
+        padding-right: 15px;
+        padding-left: 15px;
+      } */
+     
+    
+
+    
+
+        .open-account-button {
+            display: inline-block;
+            /* / font-size: 11px; / */
+            background: linear-gradient(45deg, #FFA500, #970c0c);
+            color: rgb(247, 248, 250);
+            text-decoration: none;
+            border-radius: 13px 116px;
+            transition: background-color 0.3s ease;
+            /* / padding: 12px; / */
+            
+        }
+
+        /* / instruments / */
+
+      .view_instru h1 {
+       color: #ec8333;
+       font-size: 33px;
+       padding-left: 8%;
+}
+
+     .text-styles_instrument h2 {
+      font-size: 31px;
+}
+
+ /* Copy trading */
+ .centered-button {
+  display: inline-block;
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 12px;
+  border-radius: 10px 150px;
+  background: linear-gradient(45deg, #FFA500, #970c0c);
+  transition: background-color 0.3s, color 0.3s;
+  margin-top: 12%;
+  margin-right: 29px;
+}
+
+.copytradings h1 {
+  font-size: 57px;
+  font-family: system-ui;
+  padding-top: 123px;
+  justify-content: center;
+  text-align: center;
+}
+
+
+.num-item {
+            
+  font-size: 12px;
+  border-radius: 1px 91px;
+}
+
+
+.goal-left h2 {
+  font-size: 37px;
+  color: white;
+  padding-right: 34px;
+}
+
+
+.header-overlay {
+  padding-top: 142px;
+  padding: 3px;
+  padding-bottom: 65px;
+  width: 354px;
+}
+
+.custom-h4 {
+      font-size: 16px;
+      margin-left: 12px;
+       text-align:center;
+  }
+
+.view_instru h1 {
+  color: #ec8333;
+  font-size: 33px;
+  padding-left: 8%;
+}
+
+.text-styles_instrument h2 {
+ font-size: 31px;
+}
+
+.heading {
+  margin: 1rem auto;
+  text-align: center;
+  color: white;
+  font-size: 34px;
+  padding-top: 8%;
+  padding-right: 10px;
+}
+
+.dummy-message {
+  font-size: 30px;
+  /* / margin-bottom: 20px; / */
+  padding-top: 104px;
+}
+
+
+.goal-left p {
+  line-height: 1rem;
+  margin: 1rem 0;
+  font-size: 22px;
+  padding-top: 7%;
+  line-height: 1.4;
+  font-size: 19px;
+  padding-right: 34px;
+}
+
+
+/* / / index simple img / / */
+.imgg {
+display: none;
+}
+.open-account-btn{
+display: none;
+}
+.about-us-section-1{
+display: none;
+}
+ /* copy trading */
+    
+ .centered-button {
+  display: inline-block;
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 12px;
+  border-radius: 10px 150px;
+  background: linear-gradient(45deg, #FFA500, #970c0c);
+  transition: background-color 0.3s, color 0.3s;
+  margin-top: 12%;
+  margin-right: 29px;
+}
+
+.copytradings h1 {
+  font-size: 76px;
+  font-family: system-ui;
+ text-align: center;
+ justify-content: center;
+  /* padding-top: 30px; */
+  /* text-align: center; */
+}
+.copytradings span {
+  font-size: 76px;
+  font-family: system-ui;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
+  /* padding-top: 30px; */
+  /* text-align: center; */
+}
+
+.num-item {
+            
+  font-size: 12px;
+  border-radius: 1px 91px;
+}
+
+
+.goal-left h2 {
+  font-size: 37px;
+  color: white;
+  padding-right: 34px;
+}
+
+
+.header-overlay {
+  padding-top: 142px;
+  padding: 3px;
+  padding-bottom: 65px;
+  width: 354px;
+}
+
+.custom-h4 {
+      font-size: 16px;
+      margin-left: 12px;
+       text-align:center;
+  }
+
+.view_instru h1 {
+  color: #ec8333;
+  font-size: 33px;
+  padding-left: 8%;
+}
+
+.text-styles_instrument h2 {
+ font-size: 31px;
+}
+
+.heading {
+  margin: 1rem auto;
+  text-align: center;
+  color: white;
+  font-size: 34px;
+  padding-top: 8%;
+  padding-right: 10px;
+}
+
+.dummy-message {
+  font-size: 30px;
+  /* / margin-bottom: 20px; / */
+  padding-top: 104px;
+}
+
+
+.goal-left p {
+  line-height: 1rem;
+  margin: 1rem 0;
+  font-size: 22px;
+  padding-top: 7%;
+  line-height: 1.4;
+  font-size: 19px;
+  padding-right: 34px;
+}
+
+/* about */
+.imgg {
+  display: none;
+}
+.open-account-btn{
+  display: none;
+}
+.about-us-section-1{
+  display: none;
+}
+
+
+
+  
+}
+
+@media only screen and (min-width: 321px) and (max-width: 480px) {
+  .header .intro-text h1 {
+    font-size: 30px;
+    line-height: 40px;
+    margin-bottom: 25px;
+  }
+
+  .header .intro-text p {
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 25px;
+  }
+
+  .header .intro-text .btn-primary {
+    padding: 10px 15px;
+    font-size: 13px;
+  }
+
+  .call-to-action h1 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .call-to-action .btn-primary {
+    padding: 15px;
+    font-size: 13px;
+  }
+
+  .about-text p {
+    margin-top: 20px;
+  }
+
+  .skill-shortcode {
+    margin-bottom: 30px;
+  }
+
+  .footer-link ul {
+    float: left !important;
+    margin-top: 30px;
+  }
+
+  .footer-social {
+    margin-top: 30px;
+  }
+  /* index simple img */
+  .imgg {
+    display: none;
+  }
+  .open-account-btn {
+    display: none;
+  }
+
+  .about-us-section-1 {
+    display: none;
+  }
+  .main-slide .slider-content p {
+    font-size: 7px;
+    margin-top: 22px;
+    line-height: 1.3;
+  }
+  .main-slide .slider-content h1 {
+    font-size: 14px;
+    line-height: normal;
+    margin-bottom: 0;
+    margin-top: 68px;
+  }
+  .slide h1 {
+    padding-right: 79px;
+  }
+
+  /* Account type */
+  .new-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    display: block;
+
+    gap: 1.5em;
+  }
+
+  /* Add some padding inside the card container */
+  .new-cardcontainer1 {
+    padding: 2px 16px;
+    background-color: white;
+    width: auto;
+    margin-top: 10px;
+  }
+  .new-cardcontainer2 {
+    padding: 2px 16px;
+    background-color: white;
+    width: auto;
+    margin-top: 10px;
+  }
+  .new-cardcontainer3 {
+    padding: 2px 16px;
+    background-color: white;
+    width: auto;
+    margin-top: 10px;
+  }
+
+  /* terms */
+  .c p {
+    width: 100%;
+    font-size: 10px;
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 22px;
+  }
+  .terms_page li {
+    width: 100%;
+    text-align: justify;
+    font-size: 10px;
+  }
+  .terms_page h2 {
+    width: 100%;
+    text-align: center;
+    font-size: 10px;
+    padding-left: 2px;
+  }
+  .terms_page h1 {
+    padding-top: 10px;
+    font-size: 21px;
+  }
+  .present{
+    /* padding-left: 6px; */
+  }
+  /* withdraw */
+  h1 {
+    margin: 10px 0;
+    color: white;
+  }
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-family: "averta";
+    color: white;
+  }
+
+  .content-container h1 {
+    font-size: 33px;
+  }
+  .content-container {
+    height: 544px;
+  }
+  .info-par {
+    font-size: 14px;
+    color: #211d1d;
+
+    text-align: justify;
+
+    padding-left: 7%;
+    padding-right: 7%;
+  }
+  .info {
+    font-size: 25px;
+  }
+  .head {
+    font-size: 28px;
+  }
+  .inst {
+    display: block;
+    font-size: 11px;
+    text-align: center;
+    padding: 44px 52px;
+  }
+  .inline {
+    font-weight: bold;
+    font-size: 101px;
+    background: linear-gradient(45deg, #ffa500, #a52a2a);
+    border-radius: 2px 162px;
+    padding-inline: 122px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+  }
+
+  /* //web trader responsive// */
+  .content1 h1 {
+    font-size: 39px;
+    font-family: system-ui;
+    text-align: center;
+  }
+  .content1 {
+    background-image: url("../images/animation_1.gif");
+    background-size: cover;
+    background-position: center;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .content1 h2 {
+    font-size: 22px;
+    font-family: system-ui;
+  }
+
+  /* navbar toggle show */
+
+  /* 
+.container > .navbar-header {
+  margin-right: -95px;
+  margin-left: -15px;
+} */
+  .navbar-default .nav li a {
+    font-size: 10px;
+  }
+  .app-heading {
+    font-size: 45px;
+    margin-top: -2%;
+    color: black;
+  }
+ 
+        /* footer */
+  .col-xs-12 {
+    width: 102%;
+  }
+  
+  /* Deposit */
+  
+    
+  .content-container-bg{
+    width: 100%;
+      padding-top: 5px;
+      height: 37vh;
+  }
+
+  .bg-content{
+      font-size: 45px;
+      margin-top: 156px;
+      padding-left: 20px;
+  }
+
+  
+  .bg-para{
+    padding-bottom: 136px;
+    font-size: 12px;
+    padding-right: 52px;
+  }
+  .bg-content h1{
+    padding-right: 33px;
+  }
+
+  .new-paragraph {
+      font-size: 18px;
+  }
+
+  .instructions {
+      margin-top: 10px;
+      color: black;
+      font-size: 14px;
+      display: block;
+      }
+
+
+      .inline-letter {
+          font-weight: bold;
+          font-size: 134px;
+          background-image: linear-gradient(45deg, #FFA500, #710a0a);
+          -webkit-background-clip: text;
+          background-clip: text;
+          color: transparent;
+          padding-inline: 40px;
+          padding-left: 149px;
+      }
+
+      .instructions p {
+          color: black;
+          padding-bottom: 11px;
+          margin-right: 22px;
+          text-align: center;
+          font-size: 15px;
+      }
+
+
+      .info-paragraph {
+          font-size: 15px;
+      }
+
+
+      .bg-content-bg {
+          font-size: 34px;
+          color: #211d1d;
+
+      }
+
+      .inline-letter-one {
+          font-weight: bold;
+          font-size: 131px;
+          border-radius: 10px 120px;
+      }
+
+
+      
+
+      
+
+          .open-account-button {
+              display: inline-block;
+              /* / font-size: 11px; / */
+              background: linear-gradient(45deg, #FFA500, #970c0c);
+              color: rgb(247, 248, 250);
+              text-decoration: none;
+              border-radius: 13px 116px;
+              transition: background-color 0.3s ease;
+              /* / padding: 12px; / */
+              
+          }
+                /* / instruments / */
+
+      .view_instru h1 {
+        color: #ec8333;
+        font-size: 33px;
+        padding-left: 8%;
+ }
+ 
+      .text-styles_instrument h2 {
+       font-size: 31px;
+ }
+  /* copy trading */
+    
+  .centered-button {
+    display: inline-block;
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 12px;
+    border-radius: 10px 150px;
+    background: linear-gradient(45deg, #FFA500, #970c0c);
+    transition: background-color 0.3s, color 0.3s;
+    margin-top: 12%;
+    margin-right: 29px;
+  }
+  
+  .copytradings h1 {
+    font-size: 76px;
+    font-family: system-ui;
+   text-align: center;
+   justify-content: center;
+    /* padding-top: 30px; */
+    /* text-align: center; */
+  }
+  .copytradings span {
+    font-size: 76px;
+    font-family: system-ui;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  
+    /* padding-top: 30px; */
+    /* text-align: center; */
+  }
+  
+  .num-item {
+              
+    font-size: 12px;
+    border-radius: 1px 91px;
+  }
+  
+  
+  .goal-left h2 {
+    font-size: 37px;
+    color: white;
+    padding-right: 34px;
+  }
+  
+  
+  .header-overlay {
+    padding-top: 142px;
+    padding: 3px;
+    padding-bottom: 65px;
+    width: 354px;
+  }
+  
+  .custom-h4 {
+        font-size: 16px;
+        margin-left: 12px;
+         text-align:center;
+    }
+  
+  .view_instru h1 {
+    color: #ec8333;
+    font-size: 33px;
+    padding-left: 8%;
+  }
+  
+  .text-styles_instrument h2 {
+   font-size: 31px;
+  }
+  
+  .heading {
+    margin: 1rem auto;
+    text-align: center;
+    color: white;
+    font-size: 34px;
+    padding-top: 8%;
+    padding-right: 10px;
+  }
+  
+  .dummy-message {
+    font-size: 30px;
+    /* / margin-bottom: 20px; / */
+    padding-top: 104px;
+  }
+  
+  
+  .goal-left p {
+    line-height: 1rem;
+    margin: 1rem 0;
+    font-size: 22px;
+    padding-top: 7%;
+    line-height: 1.4;
+    font-size: 19px;
+    padding-right: 34px;
+  }
+  
+
+  /* about */
+.imgg {
+  display: none;
+}
+.open-account-btn{
+  display: none;
+}
+.about-us-section-1{
+  display: none;
+}
+
+
+ 
+
+
+}
+
+@media only screen and (min-width: 481px) and (max-width: 600px) {
+  .header .intro-text h1 {
+    font-size: 20px;
+    line-height: 45px;
+    margin-bottom: 25px;
+  }
+
+
+  .header .intro-text p {
+    font-size: 20px;
+    line-height: 25px;
+    margin-bottom: 25px;
+  }
+
+  .header .intro-text .btn-primary {
+    padding: 10px 15px;
+    font-size: 13px;
+  }
+
+  .call-to-action h1 {
+    font-size: 35px;
+    line-height: 45px;
+  }
+
+  .call-to-action .btn-primary {
+    padding: 18px;
+    font-size: 15px;
+  }
+
+  .about-text p {
+    margin-top: 20px;
+  }
+
+  .skill-shortcode {
+    margin-bottom: 30px;
+  }
+
+  .footer-link ul {
+    float: left !important;
+    margin-top: 30px;
+  }
+
+  .footer-social {
+    margin-top: 30px;
+  }
+
+  #main-slide .item .slider-content {
+    /* display: none; */
+    display: flex;
+  }
+
+  #main-slide .item {
+    height: 350px;
+  }
+  .main-slide .slider-content p {
+    font-size: 7px;
+    margin-top: 22px;
+    line-height: 1.3;
+  }
+  .main-slide .slider-content h1 {
+    font-size: 16px;
+    line-height: normal;
+    margin-bottom: 0;
+    margin-top: 68px;
+    padding-left: 20px;
+  }
+  .btn-primary {
+    margin-top: -45px;
+  }
+
+  /* index simple img */
+  .imgg {
+    display: none;
+  }
+  .open-account-btn {
+    display: none;
+  }
+  .about-us-section-1 {
+    display: none;
+  }
+  /* Account type */
+
+  .section-title p {
+    padding-bottom: 60px;
+    color: #999;
+    font-size: 28px;
+    line-height: 1.4;
+    font-weight: 300;
+    padding-top: 30px;
+    width: 80vw;
+  }
+
+  .pricing-table {
+    width: 100%;
+  }
+  .new-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    display: block;
+
+    gap: 1.5em;
+  }
+
+  /* Add some padding inside the card container */
+  .new-cardcontainer1 {
+    padding: 2px 16px;
+    background-color: white;
+    width: auto;
+    margin-top: 10px;
+  }
+  .new-cardcontainer2 {
+    padding: 2px 16px;
+    background-color: white;
+    width: auto;
+    margin-top: 10px;
+  }
+  .new-cardcontainer3 {
+    padding: 2px 16px;
+    background-color: white;
+    width: auto;
+    margin-top: 10px;
+  }
+  /* index simple img */
+  .imgg {
+    display: none;
+  }
+  .open-account-btn {
+    display: none;
+  }
+
+  /* terms */
+/* terms */
+.c p {
+  width: 100%;
+  font-size: 10px;
+  text-align: justify;
+  padding-left: 10px;
+  padding-right: 22px;
+}
+.terms_page li {
+  width: 100%;
+  text-align: justify;
+  font-size: 10px;
+}
+.terms_page h2 {
+  width: 100%;
+  text-align: center;
+  font-size: 10px;
+  padding-left: 2px;
+}
+.terms_page h1 {
+  padding-top: 10px;
+  font-size: 21px;
+}
+
+  /* footer */
+
+  .footer-social {
+    text-align: justify;
+  }
+  .button-container-footer {
+    display: flex;
+    width: 50%;
+
+    margin-top: 20px;
+  }
+  .footer-content1 p {
+    /* justify-content: center; */
+
+    text-align: justify;
+  }
+  .link-animated a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    text-align: justify;
+    margin-bottom: 10px;
+  }
+
+  .link-animated a:hover {
+    color: yellow; /* Change to your desired hover color */
+  }
+
+  .link-animated i {
+    margin-right: 10px;
+    font-size: 1rem;
+    vertical-align: middle;
+  }
+
+  .link-animated a .bi {
+    vertical-align: middle;
+  }
+
+  .section-title {
+    text-align: center;
+    padding-top: 3%;
+    /* padding-right: 411px; */
+  }
+  .contact .section-title h3 {
+    text-align: left;
+  }
+  .terms_page h2 {
+    font-size: 24px;
+    color: #121010;
+    margin-top: 20px;
+  }
+  .content-paragraph {
+    padding-right: 4px;
+  }
+  .section-title h3 {
+    display: block ruby;
+  }
+
+  /* withdraw */
+  h1 {
+    margin: 10px 0;
+    color: white;
+  }
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-family: "averta";
+    color: white;
+  }
+
+  .content-container h1 {
+    font-size: 33px;
+  }
+  .content-container {
+    height: 544px;
+  }
+  .info-par {
+    font-size: 14px;
+    color: #211d1d;
+
+    text-align: justify;
+
+    padding-left: 7%;
+    padding-right: 7%;
+  }
+  .info {
+    font-size: 25px;
+  }
+  .head {
+    font-size: 28px;
+  }
+  .inst {
+    display: block;
+    font-size: 11px;
+    text-align: center;
+    padding: 54px 129px;
+  }
+  .inline {
+    font-weight: bold;
+    font-size: 101px;
+    background: linear-gradient(45deg, #ffa500, #a52a2a);
+    border-radius: 2px 162px;
+    padding-inline: 122px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+  }
+  /* //web trader responsive// */
+  .content1 h1 {
+    font-size: 39px;
+    font-family: system-ui;
+    text-align: center;
+  }
+  .content1 {
+    background-image: url("../images/animation_1.gif");
+    background-size: cover;
+    background-position: center;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .content1 h2 {
+    font-size: 22px;
+    font-family: system-ui;
+  }
+  /* Deposit */
+
+  .content-container-bg{
+    width: 100%;
+padding-top: 5px;
+height:33vh;
+}
+
+.bg-content{
+    font-size: 45px;
+    margin-top: 156px;
+    padding-left: 20px;
+}
+
+
+.bg-para{
+  padding-bottom: 3px;
+    font-size: 22px;
+}
+
+.new-paragraph {
+  font-size: 22px;
+  
+  padding-right: 13px;
+  
+}
+
+.instructions {
+    margin-top: 10px;
+    color: black;
+    font-size: 14px;
+    display: block;
+    }
+
+
+    .inline-letter {
+        font-weight: bold;
+        font-size: 134px;
+        background-image: linear-gradient(45deg, #FFA500, #710a0a);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        padding-inline: 40px;
+        padding-left: 189px;
+    }
+
+    .instructions p {
+      color: black;
+      padding-bottom: 11px;
+      /* / margin-right: 22px; / */
+      text-align: center;
+      font-size: 17px;
+      padding-right:12px;
+  }
+
+
+    .info-paragraph {
+        font-size: 15px;
+    }
+
+
+    .bg-content-bg {
+        font-size: 34px;
+        color: #211d1d;
+
+    }
+
+    .inline-letter-one {
+        font-weight: bold;
+        font-size: 131px;
+        border-radius: 10px 120px;
+    }
+
+
+    
+
+    
+
+        .open-account-button {
+            display: inline-block;
+            /* / font-size: 11px; / */
+            background: linear-gradient(45deg, #FFA500, #970c0c);
+            color: rgb(247, 248, 250);
+            text-decoration: none;
+            border-radius: 13px 116px;
+            transition: background-color 0.3s ease;
+            /* / padding: 12px; / */
+            
+        }
+                    /* / instruments / */
+
+      .view_instru h1 {
+        color: #ec8333;
+        font-size: 33px;
+        padding-left: 92px;
+       
+ }
+ 
+      .text-styles_instrument h2 {
+       font-size: 31px;
+       padding-left: 106px;
+ }
+ /* copy trading */
+    
+ .centered-button {
+  display: inline-block;
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 12px;
+  border-radius: 10px 150px;
+  background: linear-gradient(45deg, #FFA500, #970c0c);
+  transition: background-color 0.3s, color 0.3s;
+  margin-top: 12%;
+  margin-right: 29px;
+}
+
+.copytradings h1 {
+  font-size: 76px;
+  font-family: system-ui;
+ text-align: center;
+ justify-content: center;
+  /* padding-top: 30px; */
+  /* text-align: center; */
+}
+.copytradings span {
+  font-size: 76px;
+  font-family: system-ui;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
+  /* padding-top: 30px; */
+  /* text-align: center; */
+}
+
+.num-item {
+            
+  font-size: 12px;
+  border-radius: 1px 91px;
+}
+
+
+.goal-left h2 {
+  font-size: 37px;
+  color: white;
+  padding-right: 34px;
+}
+
+
+.header-overlay {
+  padding-top: 142px;
+  padding: 3px;
+  padding-bottom: 65px;
+  width: 100%;
+}
+
+.custom-h4 {
+      font-size: 16px;
+      margin-left: 12px;
+       text-align:center;
+  }
+
+.view_instru h1 {
+  color: #ec8333;
+  font-size: 33px;
+  padding-left: 8%;
+}
+
+.text-styles_instrument h2 {
+ font-size: 31px;
+}
+
+.heading {
+  margin: 1rem auto;
+  text-align: center;
+  color: white;
+  font-size: 34px;
+  padding-top: 8%;
+  padding-right: 10px;
+}
+
+.dummy-message {
+  font-size: 30px;
+  /* / margin-bottom: 20px; / */
+  padding-top: 104px;
+}
+
+
+.goal-left p {
+  line-height: 1rem;
+  margin: 1rem 0;
+  font-size: 22px;
+  padding-top: 7%;
+  line-height: 1.4;
+  font-size: 19px;
+  padding-right: 34px;
+}
+
+
+/* / / index simple img / / */
+.imgg {
+display: none;
+}
+.open-account-btn{
+display: none;
+}
+.about-us-section-1{
+display: none;
+}
+
+
+
+/* about */
+.imgg {
+  display: none;
+}
+.open-account-btn{
+  display: none;
+}
+.about-us-section-1{
+  display: none;
+}
+
+
+
+
+
+
+
+  
+
+}
+
+
+
+
+@media only screen and (min-width: 601px) and (max-width: 800px) {
+  .header .intro-text h1 {
+    font-size: 40px;
+    line-height: 45px;
+    margin-bottom: 25px;
+  }
+
+  .header .intro-text p {
+    font-size: 22px;
+    line-height: 25px;
+    margin-bottom: 25px;
+  }
+
+  .header .intro-text .btn-primary {
+    padding: 10px 15px;
+    font-size: 13px;
+  }
+
+  .call-to-action h1 {
+    font-size: 40px;
+    line-height: 45px;
+  }
+
+  .call-to-action .btn-primary {
+    padding: 18px;
+    font-size: 15px;
+  }
+
+  .about-text p {
+    margin-top: 20px;
+  }
+
+  .skill-shortcode {
+    margin-bottom: 30px;
+  }
+
+  .footer-link ul {
+    float: left !important;
+    margin-top: 30px;
+  }
+
+  .footer-social {
+    margin-top: 30px;
+  }
+  /* index mobile */
+  .centered-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  .app-heading {
+    font-size: 45px;
+    margin-top: -2%;
+    color: black;
+  }
+  /* index simple img */
+  .imgg {
+    display: none;
+  }
+  .open-account-btn {
+    display: none;
+  }
+  .section-title-info p {
+    display: none;
+  }
+  .custom-h2-style {
+    display: none;
+  }
+
+  #main-slide .item .slider-content {
+    /* display: none; */
+    display: flex;
+  }
+
+  /* index simple img */
+  .imgg {
+    display: none;
+  }
+  .open-account-btn {
+    display: none;
+  }
+  .about-us-section-1 {
+    display: none;
+  }
+  #main-slide .item {
+    height: 350px;
+  }
+  .main-slide .slider-content p {
+    font-size: 7px;
+    margin-top: 22px;
+    line-height: 1.3;
+  }
+  .main-slide .slider-content h1 {
+    font-size: 16px;
+    line-height: normal;
+    margin-bottom: 0;
+    margin-top: 68px;
+    padding-left: 20px;
+  }
+  .btn-primary {
+    margin-top: -45px;
+  }
+
+  /* Account type */
+  .new-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    display: flex;
+
+    gap: 1.5em;
+  }
+  .section-title p {
+    padding-bottom: 60px;
+    color: #999;
+    font-size: 28px;
+    line-height: 1.4;
+    font-weight: 300;
+    padding-top: 30px;
+    width: 80vw;
+  }
+
+  /* Add some padding inside the card container */
+  .new-cardcontainer1 {
+    padding: 1px 16px;
+    background-color: white;
+    width: 30%;
+    margin-top: 10px;
+  }
+  .new-cardcontainer2 {
+    padding: 2px 16px;
+    background-color: white;
+    width: 30%;
+    margin-top: 10px;
+  }
+  .new-cardcontainer3 {
+    padding: 2px 16px;
+    background-color: white;
+    width: 30%;
+    margin-top: 10px;
+  }
+  .new-cardcontainer1 h3 {
+    color: white;
+    padding: 6px;
+    margin: 0;
+    background: linear-gradient(45deg, #ffa500, #a52a2a);
+  }
+  .new-cardcontainer2 h3 {
+    color: white;
+    padding: 7px;
+    margin: 0;
+    background: linear-gradient(45deg, #ffa500, #a52a2a);
+  }
+  .new-cardcontainer3 h3 {
+    color: white;
+    padding: 5px;
+    margin: 0;
+    background: linear-gradient(45deg, #ffa500, #a52a2a);
+  }
+
+  /* terms */
+/* terms */
+.c p {
+  width: 100%;
+  font-size: 10px;
+  text-align: justify;
+  padding-left: 10px;
+  padding-right: 22px;
+}
+.terms_page li {
+  width: 100%;
+  text-align: justify;
+  font-size: 10px;
+}
+.terms_page h2 {
+  width: 100%;
+  text-align: center;
+  font-size: 10px;
+  padding-left: 2px;
+}
+.terms_page h1 {
+  padding-top: 10px;
+  font-size: 21px;
+}
+  .footer-social {
+    text-align: justify;
+  }
+  .button-container-footer {
+    display: flex;
+    width: 50%;
+
+    margin-top: 20px;
+  }
+  .footer-content1 p {
+    /* justify-content: center; */
+
+    text-align: justify;
+  }
+  .link-animated a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    text-align: justify;
+
+    margin-bottom: 10px;
+  }
+
+  .link-animated a:hover {
+    color: yellow; /* Change to your desired hover color */
+  }
+
+  .link-animated i {
+    margin-right: 10px;
+    font-size: 1rem;
+    vertical-align: middle;
+  }
+
+  .link-animated a .bi {
+    vertical-align: middle;
+  }
+
+  .section-title {
+    text-align: center;
+    padding-top: 3%;
+  }
+  .terms_page h2 {
+    font-size: 20px;
+    color: #121010;
+    margin-top: 20px;
+  }
+  .contact .section-title h3 {
+    text-align: left;
+  }
+  .section-title h3 {
+    display: block ruby;
+  }
+  /* withdraw */
+  h1 {
+    margin: 10px 0;
+    color: white;
+  }
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-family: "averta";
+    color: white;
+  }
+
+  .content-container h1 {
+    font-size: 33px;
+  }
+  .content-container {
+    height: 544px;
+  }
+  .info-par {
+    font-size: 14px;
+    color: #211d1d;
+
+    text-align: justify;
+
+    padding-left: 7%;
+    padding-right: 7%;
+  }
+  .info {
+    font-size: 25px;
+  }
+  .head {
+    font-size: 28px;
+  }
+  .inst {
+    display: block;
+    font-size: 11px;
+    text-align: center;
+    padding: 54px 202px;
+  }
+  .inline {
+    font-weight: bold;
+    font-size: 101px;
+    background: linear-gradient(45deg, #ffa500, #a52a2a);
+    border-radius: 2px 162px;
+    padding-inline: 122px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+  }
+  /* //web trader responsive// */
+  .content1 h1 {
+    font-size: 39px;
+    font-family: system-ui;
+    text-align: center;
+  }
+  .content1 {
+    background-image: url("../images/animation_1.gif");
+    background-size: cover;
+    background-position: center;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .content1 h2 {
+    font-size: 22px;
+    font-family: system-ui;
+  }
+
+  /* DEposit */
+
+
+  .content-container-bg{
+    width: 100%;
+padding-top: 5px;
+ height: 66vh;
+}
+
+.bg-content{
+    font-size: 45px;
+    margin-top: 156px;
+    padding-left: 20px;
+}
+
+
+.bg-para{
+  padding-bottom: 3px;
+    font-size: 22px;
+}
+
+.new-paragraph {
+  font-size: 22px;
+  margin-top: 156px;
+  padding-left: 20px;
+}
+
+.instructions {
+    margin-top: 10px;
+    color: black;
+    font-size: 14px;
+    display: block;
+    }
+
+
+    .inline-letter {
+        font-weight: bold;
+        font-size: 134px;
+        background-image: linear-gradient(45deg, #FFA500, #710a0a);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        padding-inline: 40px;
+        padding-left: 254px;
+    }
+
+    .instructions p {
+      color: black;
+      padding-bottom: 11px;
+      /* / margin-right: 22px; / */
+      text-align: center;
+      
+      font-size: 21px;
+     
+      padding-right: 12px;
+  }
+
+
+    .info-paragraph {
+        font-size: 15px;
+    }
+
+
+    .bg-content-bg {
+        font-size: 34px;
+        color: #211d1d;
+
+    }
+
+    .inline-letter-one {
+        font-weight: bold;
+        font-size: 131px;
+        border-radius: 10px 120px;
+    }
+
+
+    
+
+    
+
+        .open-account-button {
+            display: inline-block;
+            /* / font-size: 11px; / */
+            background: linear-gradient(45deg, #FFA500, #970c0c);
+            color: rgb(247, 248, 250);
+            text-decoration: none;
+            border-radius: 13px 116px;
+            transition: background-color 0.3s ease;
+            /* / padding: 12px; / */
+            
+        }
+         /* copy trading */
+    
+ .centered-button {
+  display: inline-block;
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 12px;
+  border-radius: 10px 150px;
+  background: linear-gradient(45deg, #FFA500, #970c0c);
+  transition: background-color 0.3s, color 0.3s;
+  margin-top: 12%;
+  margin-right: 29px;
+}
+
+.copytradings h1 {
+  font-size: 76px;
+  font-family: system-ui;
+ text-align: center;
+ justify-content: center;
+  /* padding-top: 30px; */
+  /* text-align: center; */
+}
+.copytradings span {
+  font-size: 76px;
+  font-family: system-ui;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
+  /* padding-top: 30px; */
+  /* text-align: center; */
+}
+
+.num-item {
+            
+  font-size: 12px;
+  border-radius: 1px 91px;
+}
+
+
+.goal-left h2 {
+  font-size: 37px;
+  color: white;
+  padding-right: 34px;
+}
+
+
+.header-overlay {
+  padding-top: 142px;
+  padding: 3px;
+  padding-bottom: 65px;
+  width: 100%;
+}
+
+.custom-h4 {
+      font-size: 16px;
+      margin-left: 12px;
+       text-align:center;
+  }
+
+.view_instru h1 {
+  color: #ec8333;
+  font-size: 33px;
+  padding-left: 8%;
+}
+
+.text-styles_instrument h2 {
+ font-size: 31px;
+}
+
+.heading {
+  margin: 1rem auto;
+  text-align: center;
+  color: white;
+  font-size: 34px;
+  padding-top: 8%;
+  padding-right: 10px;
+}
+
+.dummy-message {
+  font-size: 30px;
+  /* / margin-bottom: 20px; / */
+  padding-top: 104px;
+}
+
+
+.goal-left p {
+  line-height: 1rem;
+  margin: 1rem 0;
+  font-size: 22px;
+  padding-top: 7%;
+  line-height: 1.4;
+  font-size: 19px;
+  padding-right: 34px;
+}
+
+
+
+}
+
+@media only screen and (min-width: 801px) and (max-width: 991px) {
+  .carousel .slide {
+    width: 100%;
+  }
+  .header .intro-text h1 {
+    font-size: 45px;
+    line-height: 50px;
+    margin-bottom: 30px;
+  }
+
+  .header .intro-text p {
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 30px;
+  }
+
+  .header .intro-text .btn-primary {
+    padding: 15px 20px;
+    font-size: 16px;
+  }
+  .main-slide .slider-content p {
+    font-size: 7px;
+    margin-top: 22px;
+    line-height: 1.3;
+  }
+  .main-slide .slider-content h1 {
+    font-size: 14px;
+    line-height: normal;
+    margin-bottom: 0;
+    margin-top: 68px;
+  }
+  /* index mobile */
+  .centered-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  .app-heading {
+    font-size: 45px;
+    margin-top: -2%;
+    color: black;
+  }
+
+  /* index simple img */
+  .imgg {
+    display: none;
+  }
+  .open-account-btn {
+    display: none;
+  }
+  .about-us-section-1 {
+    display: none;
+  }
+  /* 
+  Account type */
+  .new-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    display: flex;
+
+    gap: 1.5em;
+  }
+  .section-title p {
+    padding-bottom: 60px;
+    color: #999;
+    font-size: 28px;
+    line-height: 1.4;
+    font-weight: 300;
+    padding-top: 30px;
+    width: 80vw;
+  }
+
+  /* Add some padding inside the card container */
+  .new-cardcontainer1 {
+    padding: 2px 16px;
+    background-color: white;
+    width: 30%;
+    margin-top: 10px;
+  }
+  .new-cardcontainer2 {
+    padding: 2px 16px;
+    background-color: white;
+    width: 30%;
+    margin-top: 10px;
+  }
+  .new-cardcontainer3 {
+    padding: 2px 16px;
+    background-color: white;
+    width: 30%;
+    margin-top: 10px;
+  }
+  .section-title h3 {
+    display: block ruby;
+  }
+  /* index simple img */
+  .imgg {
+    display: none;
+  }
+  .open-account-btn {
+    display: none;
+  }
+  .text-center {
+    display: none;
+  }
+  /* terms */
+ /* terms */
+ .c p {
+  width: 100%;
+  font-size: 10px;
+  text-align: justify;
+  padding-left: 10px;
+  padding-right: 22px;
+}
+.terms_page li {
+  width: 100%;
+  text-align: justify;
+  font-size: 10px;
+}
+.terms_page h2 {
+  width: 100%;
+  text-align: center;
+  font-size: 10px;
+  padding-left: 2px;
+}
+.terms_page h1 {
+  padding-top: 10px;
+  font-size: 21px;
+}
+  .footer-social {
+    text-align: justify;
+  }
+  .button-container-footer {
+    display: flex;
+    width: 50%;
+
+    margin-top: 20px;
+  }
+  .footer-content1 p {
+    /* justify-content: center; */
+
+    text-align: justify;
+  }
+  .link-animated a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    text-align: justify;
+
+    margin-bottom: 10px;
+  }
+
+  .link-animated a:hover {
+    color: yellow; /* Change to your desired hover color */
+  }
+
+  .link-animated i {
+    margin-right: 10px;
+    font-size: 1rem;
+    vertical-align: middle;
+  }
+
+  .link-animated a .bi {
+    vertical-align: middle;
+  }
+
+  .section-title {
+    text-align: center;
+    padding-top: 3%;
+  }
+  .contact .section-title h3 {
+    text-align: left;
+  }
+  .terms_page h2 {
+    font-size: 29px;
+    color: #121010;
+    margin-top: 20px;
+  }
+  .button-container-footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    padding-bottom: 1px;
+  }
+  /* withdraw */
+  h1 {
+    margin: 10px 0;
+    color: white;
+  }
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-family: "averta";
+    color: white;
+  }
+
+  .content-container h1 {
+    font-size: 33px;
+  }
+  .content-container {
+    height: 544px;
+  }
+  .info-par {
+    font-size: 14px;
+    color: #211d1d;
+
+    text-align: justify;
+
+    padding-left: 7%;
+    padding-right: 7%;
+  }
+  .info {
+    font-size: 25px;
+  }
+  .head {
+    font-size: 28px;
+  }
+  .inst {
+    display: block;
+    font-size: 11px;
+    text-align: center;
+    padding: 54px 290px;
+  }
+  .inline {
+    font-weight: bold;
+    font-size: 101px;
+    background: linear-gradient(45deg, #ffa500, #a52a2a);
+    border-radius: 2px 162px;
+    padding-inline: 122px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+  }
+  #main-slide .item .slider-content {
+    /* display: none; */
+    display: flex;
+  }
+
+  #main-slide .item {
+    height: 400px;
+  }
+  .main-slide .slider-content p {
+    font-size: 7px;
+    margin-top: 22px;
+    line-height: 1.3;
+  }
+  .main-slide .slider-content h1 {
+    font-size: 16px;
+    line-height: normal;
+    margin-bottom: 0;
+    margin-top: 68px;
+    padding-left: 20px;
+  }
+  .btn-primary {
+    margin-top: -45px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1100px) {
+  .carousel .slide {
+    width: 100%;
+  }
+  .main-slide .slider-content p {
+    font-size: 7px;
+    margin-top: 22px;
+    line-height: 1.3;
+  }
+  .main-slide .slider-content h1 {
+    font-size: 14px;
+    line-height: normal;
+    margin-bottom: 0;
+    margin-top: 68px;
+  }
+  /* index simple img */
+  .imgg {
+    display: none;
+  }
+  .open-account-btn {
+    display: none;
+  }
+  .about-us-section-1 {
+    display: none;
+  }
+  /* withdraw */
+  h1 {
+    margin: 10px 0;
+    color: white;
+  }
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-family: "averta";
+    color: white;
+  }
+
+  .content-container h1 {
+    font-size: 33px;
+  }
+  .content-container {
+    height: 544px;
+  }
+  .info-par {
+    font-size: 14px;
+    color: #211d1d;
+
+    text-align: justify;
+
+    padding-left: 7%;
+    padding-right: 7%;
+  }
+  .info {
+    font-size: 25px;
+  }
+  .head {
+    font-size: 28px;
+  }
+  .inst {
+    display: block;
+    font-size: 11px;
+    text-align: center;
+    padding: 54px 364px;
+  }
+  .inline {
+    font-weight: bold;
+    font-size: 101px;
+    background: linear-gradient(45deg, #ffa500, #a52a2a);
+    border-radius: 2px 162px;
+    padding-inline: 122px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+  }
+  .col-md-4 {
+    width: 100%;
+  }
+  /* index simple img */
+  .imgg {
+    display: none;
+  }
+  .open-account-btn {
+    display: none;
+  }
+  #main-slide .item .slider-content {
+    /* display: none; */
+    display: flex;
+  }
+
+  #main-slide .item {
+    height: 350px;
+  }
+  .main-slide .slider-content p {
+    font-size: 3px;
+    margin-top: 22px;
+    line-height: 1.3;
+  }
+  .main-slide .slider-content h1 {
+    font-size: 2px;
+    line-height: normal;
+    margin-bottom: 0;
+    margin-top: 68px;
+    padding-left: 20px;
+  }
+  .btn-primary {
+    margin-top: -88px;
+  }
+  /* index mobile */
+  .centered-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  .app-heading {
+    font-size: 45px;
+    margin-top: -2%;
+    color: black;
+  }
+}
+
+@media (min-width: 363px) and (max-width: 740) {
+  .carousel .slide {
+    width: 100%;
+  }
+  h1 {
+    margin: 10px 0;
+    color: white;
+  }
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-family: "averta";
+    color: white;
+  }
+
+  /* index simple img */
+  .imgg {
+    display: none;
+  }
+  .open-account-btn {
+    display: none;
+  }
+}
+
+
+.navbar-brand > img{
+  width: 100px;
+  height: 40px;
+}
+
+.navbar-brand{
+  height: auto;
+  padding: 8px 14px;
+}
+
+@media screen and (max-width: 767px) {
+  .navbar-nav .open .dropdown-menu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
